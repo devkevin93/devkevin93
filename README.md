@@ -4,10 +4,10 @@
 
 - 🌍  I'm based in Colombia
 - 🧠  I'm a person in constant learning, looking for job opportunities.
-- :nerd_face: Skills: JAVA / JS / SQL / SPRING BOOT / HTML / CSS
+- :nerd_face: Skills: JAVA /ANGULAR/ JS / SQL / SPRING BOOT / HTML / CSS
 - 🤔 I’m looking for help with SPRING BOOT / ANGULAR 
 - 📫 How to reach me: devkevin93@gmail.com 
-- 🌱 I’m currently learning JAVA / JS / SPRING BOOT 
+- 🌱 I’m currently learning SPRING BOOT / TYPESCRIPT
 - ⚡ Fun fact:  I love Pandas 
 
 
